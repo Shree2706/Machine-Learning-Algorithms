@@ -1,6 +1,8 @@
 # Machine-Learning-Algorithms
-This Repository is a collection jupyter notebooks which I created when I was studying Machine Learning Algorithms.
+This repository is the series of jupyter notebooks and a step by step process for learning Machine Learning Algorithms, In this repository i've put together the jupyter notebooks, and other files for understanding different Machine learning Algorithms, Here in every algorithm there are two types of methods:
+ 1. I first implemented the Scikit-Learn implementation of those algorithms.
+ 2. And then created the algorithm from scratch, to understand the functionality of the algorithm.
 
-In this path of becoming a Data Scientist, after the Data Analysis Process, I have to learn these Algorithms to get the most out of the data coming in.
+And then compare their result with each other to understand which one is better. The same thing is done with each algorithm.
+(There are different folders provided for each algorithm seperately).
 
-Here is a series of Algorithms through which I went through, step-by-step 
