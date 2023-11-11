@@ -1,4 +1,4 @@
-## 4. Support Vector Machines
+## 4. Support Vector Machines(SVM)
 
 A support vector machine (SVM) is a supervised learning algorithm used in machine learning to solve classification, regression, and outlier detection problems. SVMs are particularly good at solving binary classification problems, which require classifying the elements of a data set into two groups. 
 SVMs can be used for a variety of tasks, such as: Text classification, Image classification, Spam detection, Handwriting identification. 
